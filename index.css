@@ -1,0 +1,25 @@
+body {
+    background-color: #313030;
+    margin: 1rem;
+    text-align: center;
+    width: 100%;
+    padding: auto;
+  }
+  img {
+    height: 200px;
+  }
+  
+  .card {
+    background-image: linear-gradient(to bottom left, #ffffff, #676767);
+  }
+  .card-header {
+    background-color: #cfd7fa;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .hidden {
+    display: none;
+  }
+
+ 
